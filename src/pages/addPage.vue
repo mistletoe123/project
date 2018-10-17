@@ -27,7 +27,7 @@
 </template>
 
 <script>
-import loading from "@/loading/loading" 
+//import loading from "@/loading/loading" 
 
 
 export default {
